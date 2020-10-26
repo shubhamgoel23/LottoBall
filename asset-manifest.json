@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LottoBall/static/css/main.c2aa5ab5.chunk.css",
+    "main.js": "/LottoBall/static/js/main.061a9458.chunk.js",
+    "main.js.map": "/LottoBall/static/js/main.061a9458.chunk.js.map",
+    "runtime-main.js": "/LottoBall/static/js/runtime-main.19d5caf8.js",
+    "runtime-main.js.map": "/LottoBall/static/js/runtime-main.19d5caf8.js.map",
+    "static/js/2.ea4fa196.chunk.js": "/LottoBall/static/js/2.ea4fa196.chunk.js",
+    "static/js/2.ea4fa196.chunk.js.map": "/LottoBall/static/js/2.ea4fa196.chunk.js.map",
+    "static/js/3.17d282c4.chunk.js": "/LottoBall/static/js/3.17d282c4.chunk.js",
+    "static/js/3.17d282c4.chunk.js.map": "/LottoBall/static/js/3.17d282c4.chunk.js.map",
+    "index.html": "/LottoBall/index.html",
+    "static/css/main.c2aa5ab5.chunk.css.map": "/LottoBall/static/css/main.c2aa5ab5.chunk.css.map",
+    "static/js/2.ea4fa196.chunk.js.LICENSE.txt": "/LottoBall/static/js/2.ea4fa196.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19d5caf8.js",
+    "static/js/2.ea4fa196.chunk.js",
+    "static/css/main.c2aa5ab5.chunk.css",
+    "static/js/main.061a9458.chunk.js"
+  ]
+}
